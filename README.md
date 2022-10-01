@@ -94,24 +94,24 @@ ____________________________________________________________________________
         ),
       ),
     );
-<p align="center">
+
 ----------------------> Welcome Page <------------------------------------
 
-
+<p align="center">
 <img src="https://i.ibb.co/QnKd3jF/IMG-20220813-232327.jpg"  width="500" >
 </p>          
-<p align="center">      
+     
 ----------------------> SignUp Page <------------------------------------
 
-
+<p align="center"> 
 <img src="https://i.ibb.co/XtJW9Yt/IMG-20220813-232404.jpg" width="500">
 
 </p>
-<p align="center">
+
 ------------------------>login Page <---------------------------------------
 
 
-
+<p align="center">
 <img src="https://i.ibb.co/QDnYFLY/IMG-20220813-232347.jpg" width="500">
 
 </p>
