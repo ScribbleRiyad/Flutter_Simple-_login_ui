@@ -115,9 +115,8 @@ class HomePage extends StatelessWidget {
     );
   }
 }
-___________________________________________________________________________________________
-#SignUp Page
-___________________________________________________________________________________________
+//SignUp Page code
+
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
@@ -255,9 +254,9 @@ Widget inputFile({label, obscureText = false}) {
   );
 }
 <img src="https://i.ibb.co/QnKd3jF/IMG-20220813-232327.jpg" width="300">
-____________________________________________________________________
-#login Page 
-____________________________________________________________________
+
+//login Page code
+
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
